@@ -1,4 +1,4 @@
-# Hi, I'm Farook Asif 👋
+# Hi, I'm Asif Farook👋
 
 Aspiring Data Scientist | Python • SQL • Machine Learning
 
