@@ -10,8 +10,8 @@ Recent graduate passionate about extracting insights from data. Just completed c
 - Visualization: Matplotlib, Seaborn, Tableau/Power BI
 - Others: Git, Jupyter
 
-### 🚀 Projects
-(Will add links here as I upload them)
+## 🚀 Featured Project
+- **[PodSpectrum](https://github.com/farookasif19016/podspectrum)**: Personalized podcast recommendation system using OCEAN personality traits and NLP (SBERT, BERTopic). MSc dissertation project with Streamlit interface.
 
 Currently working on real-world projects to strengthen my skills. Open to collaborations and junior data science/analyst roles!
 
