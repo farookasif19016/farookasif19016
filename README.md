@@ -19,5 +19,6 @@ Currently working on real-world projects to strengthen my skills. Open to collab
 - LinkedIn: https://www.linkedin.com/in/asif-farook-77409317a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Email: farookasif19016@gmail.com
 - University Email: ak5143p@gre.ac.uk
+- CV: https://flowcv.com/resume/tgbs8623ga0r
 
 Thanks for visiting! 🚀
